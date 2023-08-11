@@ -1,3 +1,4 @@
-#Nomad Coders Kokoa Clone coding practice
+# Nomad Coders Kokoa Clone coding practice
 
-good to go!
+In this course I will practice basics on Html and Css
+Let's get started!
